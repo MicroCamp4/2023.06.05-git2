@@ -7,5 +7,7 @@ public class App {
         System.out.println("zmiany");
 
         System.out.println("zmiany z master");
+
+        System.out.println("kolejne zmiany w master");
     }
 }
